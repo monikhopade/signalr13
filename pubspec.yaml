@@ -34,9 +34,6 @@ flutter:
         pluginClass: Signalr1Plugin
       ios:
         pluginClass: Signalr1Plugin
-      web:
-        pluginClass: Signalr1Web
-        fileName: signalr1_web.dart
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
